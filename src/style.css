@@ -1,0 +1,27 @@
+.container {
+    margin-right: 30%;
+    margin-left: 30%;
+    background-color: gray;
+    border: 1px solid darkgray;
+    border-radius: 3%;
+    width: 30%;
+    height: 25%;
+}
+.container h3 {
+    font-size: 28pt;
+}
+.container p {
+    font-size: 25px;
+}
+
+button {
+    display: block;
+    text-align: center;
+    justify-content: center;
+    margin-left: 30%;
+    margin-right: 30%;
+    width: 40%;
+}
+input {
+    width: 90%;
+}
